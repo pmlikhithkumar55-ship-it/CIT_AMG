@@ -26,3 +26,4 @@ This project implements a simplified ECC (Elliptic Curve Cryptography) Scalar Mu
 
 ## Author
 PM Likhith Kumar
+Prajwal T
